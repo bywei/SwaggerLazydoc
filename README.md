@@ -2,8 +2,8 @@
 Swagger Lazydoc Source Code
 
 ## 待实现功能列表
-支持 API 测试用例 Mock 功能
-云服务端支持多用户
+### 支持 API 测试用例 Mock 功能
+### 云服务端支持多用户
 云服务端支持开放 API 管理
 支持导出 swagger PDF 或者 HTML 文档
 
